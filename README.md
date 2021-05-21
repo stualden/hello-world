@@ -1,4 +1,2 @@
-# hello-world
-Just learning how to use Github
-
-More lines can be added here...
+# sandbox
+Just learning how to use Github - okay to trash anything here.
